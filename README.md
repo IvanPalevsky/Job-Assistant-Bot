@@ -46,3 +46,7 @@ Job Assistant Bot - это Telegram бот, разработанный для п
 3. Откройте файл `config.py` и добавьте в него токен бота и путь к базе данных:
    TOKEN = 'ваш_токен_бота'
    DATABASE = 'название_базы_данных.db'
+
+## Обратная связь:
+- [Instagram](https://www.instagram.com/chll_killer/)
+- [VK](https://vk.com/id543558031)
